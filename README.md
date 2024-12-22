@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro projeto.
+ **Primeiro projeto**. Disponivel gratuitamente no canal do *you-tube*.
 
 Repositório criado durante a aula!
 
